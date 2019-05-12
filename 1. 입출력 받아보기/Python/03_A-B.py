@@ -1,1 +1,2 @@
-print('123\nYour_ICPC_Team_Name')
+a, b = map(int, input().split(' '))
+print(a-b)
